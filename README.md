@@ -46,4 +46,4 @@ Cuando hicimos los test de usabilidad, el principal problema que detectamos fuer
 
 ## 6.	Link de ENCICLOPEDIA WUBBA LUBBA
 
-https://kyoyarzun.github.io/SCL018-data-lovers/
+https://kyoyarzun.github.io/SCL018-data-lovers/src
