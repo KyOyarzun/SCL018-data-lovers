@@ -42,4 +42,5 @@ Tamaño Celular
 
 ## 5.	Test de usabilidad
 Cuando hicimos los test de usabilidad, el principal problema que detectamos fueron las imágenes de fondo que utilizábamos en el fondo de la segunda página y en el fondo de las cartas, ya que los colores eran demasiado sobrecargados y no permitían apreciar bien otros elementos como las letras, por ejemplo. Para solucionar estos problemas, cambiamos la imagen de fondo de la segunda página por una más neutral y le pusimos una transparencia a la carta para que, a la hora de voltearse, se vieran mejor las letras.
+
 ## 6.	Link de ENCICLOPEDIA WUBBA LUBBA
